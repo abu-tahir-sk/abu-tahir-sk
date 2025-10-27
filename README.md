@@ -1,4 +1,4 @@
-![Web Developer](https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-6/520651035_122126848940865959_1719537791958889031_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=f1uJjRnoBiUQ7kNvwHJpk2n&_nc_oc=AdkLCUl-8CpEAjaZfgWXK_9I6Q3RwQYUJVW_fcIBofPZlSZf9vS8lDi_aOSRY8essOo&_nc_zt=23&_nc_ht=scontent-bom1-1.xx&_nc_gid=0W4oYkCdvgoXErYuulVbgw&oh=00_AfRyHpfqC7VxT2OuV_yZsTFAADf5OI0IjhMJqBV41gtBTg&oe=6885AFEB)
+![Web Developer]([https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-6/520651035_122126848940865959_1719537791958889031_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=f1uJjRnoBiUQ7kNvwHJpk2n&_nc_oc=AdkLCUl-8CpEAjaZfgWXK_9I6Q3RwQYUJVW_fcIBofPZlSZf9vS8lDi_aOSRY8essOo&_nc_zt=23&_nc_ht=scontent-bom1-1.xx&_nc_gid=0W4oYkCdvgoXErYuulVbgw&oh=00_AfRyHpfqC7VxT2OuV_yZsTFAADf5OI0IjhMJqBV41gtBTg&oe=6885AFEB](https://media.licdn.com/dms/image/v2/D5616AQGWt0xhx2zoqA/profile-displaybackgroundimage-shrink_350_1400/B56Zoklke3JoAY-/0/1761550421568?e=1762992000&v=beta&t=aGF7Q2T5WLTEZq-Rr_T_GDteKNOw6gFuItCVZsTmBSk)
 
 
 
