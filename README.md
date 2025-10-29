@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/cover.jpeg](https://github.com/abu-tahir-sk/abu-tahir-sk/blob/main/cover.jpeg)" alt="Abu Tahir Sk Banner" width="100%" />
+  <img src="[[https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/cover.jpeg](https://github.com/abu-tahir-sk/abu-tahir-sk/blob/main/cover.jpeg)](https://github.com/abu-tahir-sk/abu-tahir-sk/blob/main/cover.jpeg?raw=true)" alt="Abu Tahir Sk Banner" width="100%" />
 </p>
 
 
