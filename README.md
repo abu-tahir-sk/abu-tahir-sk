@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Welcome Banner](https://github.com/AbuTahirSk/AbuTahirSk/blob/main/banner.png)
+![Welcome Banner]([https://github.com/AbuTahirSk/AbuTahirSk/blob/main/banner.png](https://i.ibb.co/8LmMPhw2/cover.jpg))
 
 <h1 align="center">Hi 👋, I'm Abu Tahir Sk</h1>
 <h3 align="center">💻 Frontend Developer | 🌱 Learning Backend Development</h3>
