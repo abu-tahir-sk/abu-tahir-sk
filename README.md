@@ -56,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats (Animated)
+###  GitHub Stats (Animated)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbuTahirSk&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
