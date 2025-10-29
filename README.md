@@ -9,7 +9,7 @@
 </p>
 
 <!-- Logo -->
-<p align="center">
+<p align="center rounded-full">
   <img src="https://pbs.twimg.com/profile_images/1983572780491657216/xP_UFLpo_400x400.jpg" alt="Logo" width="120" />
 </p>
 
