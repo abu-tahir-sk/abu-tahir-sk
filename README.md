@@ -1,24 +1,19 @@
 ---
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abu+Tahir+Sk....." alt="Typing Animation" />
-</h1>
+
 
 <!-- Banner -->
 <p align="center">
   <img src="https://pbs.twimg.com/profile_banners/1947730514363781121/1753210399/1080x360" alt="Abu Tahir Sk Banner" width="100%" />
+  
 </p>
 
----
 
-### My Experience 
+<!-- Animated Typing Intro -->
+<h1 align="">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abu+Tahir+Sk....." alt="Typing Animation" />
+</h1>
 
-<!-- Tech Stack Icons -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
-</p>
 
----
 
 ### 🧠 About Me
 
