@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/cover.jpeg](https://pbs.twimg.com/profile_banners/1947730514363781121/1753210399/1080x360" alt="Abu Tahir Sk Banner" width="100%" />
+  <img src="https://pbs.twimg.com/profile_banners/1947730514363781121/1753210399/1080x360" alt="Abu Tahir Sk Banner" width="100%" />
 </p>
 
 <!-- Logo -->
