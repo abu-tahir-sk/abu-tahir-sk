@@ -5,7 +5,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="[https://github.com/AbuTahirSk/AbuTahirSk/blob/main/banner.gif](https://media.licdn.com/dms/image/v2/D5616AQGWt0xhx2zoqA/profile-displaybackgroundimage-shrink_350_1400/B56Zoklke3JoAY-/0/1761550421568?e=1763596800&v=beta&t=X3cfOrJaVR2gWUDg0-r9DWLXjK6Ml0IWC7nHQNGLMdg)" alt="Animated Banner" width="100%" />
+  <img src="https://github.com/AbuTahirSk/AbuTahirSk/blob/main/banner.gif" alt="Animated Banner" width="100%" />
 </p>
 
 <!-- Logo -->
