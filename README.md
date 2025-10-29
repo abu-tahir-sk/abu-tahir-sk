@@ -5,13 +5,12 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="[[https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/cover.jpeg](https://github.com/abu-tahir-sk/abu-tahir-sk/blob/main/cover.jpeg)](https://github.com/abu-tahir-sk/abu-tahir-sk/blob/main/cover.jpeg?raw=true)" alt="Abu Tahir Sk Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/cover.jpeg" alt="Abu Tahir Sk Banner" width="100%" />
 </p>
-
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://github.com/AbuTahirSk/AbuTahirSk/blob/main/logo.png" alt="Logo" width="120" />
+  <img src="https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/logo.png" alt="Logo" width="120" />
 </p>
 
 ---
