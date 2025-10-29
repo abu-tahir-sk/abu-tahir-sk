@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abu+Tahir+Sk;Frontend+Developer;Learning+Backend+Development;Welcome+to+my+GitHub!+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Abu+Tahir+Sk" alt="Typing Animation" />
 </p>
 
 <!-- Banner -->
