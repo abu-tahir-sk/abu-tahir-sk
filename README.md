@@ -5,9 +5,9 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="[https://github.com/AbuTahirSk/AbuTahirSk/blob/main/banner.gif](https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/cover.jpeg
-)" alt="Animated Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/cover.jpeg" alt="Abu Tahir Sk Banner" width="100%" />
 </p>
+
 
 <!-- Logo -->
 <p align="center">
