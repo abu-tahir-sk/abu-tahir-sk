@@ -1,7 +1,7 @@
 ---
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.ibb.co/qYbR9Q6n/Blue-Gaming-Facebook-Cover.png" alt="Abu Tahir Sk Banner" width="100%" />
+  <img src="https://pbs.twimg.com/profile_banners/1947730514363781121/1761762450/1500x500" alt="Abu Tahir Sk Banner" width="100%" />
   
 </p>
 
