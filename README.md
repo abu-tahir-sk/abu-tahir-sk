@@ -13,23 +13,20 @@
   <img src="https://github.com/AbuTahirSk/AbuTahirSk/blob/main/logo.png" alt="Logo" width="120" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abu Tahir Sk</h1>
-<h3 align="center">💻 Frontend Developer | 🌱 Learning Backend Development</h3>
-
 ---
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **Frontend Projects**
-- 🌱 I’m learning **Node.js, Express.js, and MongoDB**
-- 💬 Ask me about **HTML, CSS, Tailwind, JavaScript, React**
-- ⚡ Fun fact: I love creating smooth, responsive, and clean websites 🎨
+- 🔭 Working on **Frontend Projects**
+- 🌱 Currently learning **Node.js, Express.js, MongoDB**
+- 💬 Ask me about **HTML, CSS, JS, React, Tailwind**
+- ⚡ Passion: I enjoy creating clean, modern, and responsive UIs ✨
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills
 
-#### 🌐 Frontend
+#### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -59,7 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (Animated)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbuTahirSk&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
@@ -75,8 +72,8 @@
 
 ---
 
-### 💬 Quote
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+### 💬 Fun Quote
+> “Code is like art — your logic is your brush.”
 
 ---
 
