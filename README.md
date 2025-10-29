@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi  I AM Abu Tahir Sk ....</h1>
 
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg](https://i.ibb.co/8LmMPhw2/cover.jpg)" height="60" alt="html5 logo"  />
+
 ###
 
 <div align="center">
