@@ -1,7 +1,7 @@
 ---
 <!-- Banner -->
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1947730514363781121/1753210399/1080x360" alt="Abu Tahir Sk Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH9OmuAQmvLiA/profile-displaybackgroundimage-shrink_350_1400/B56ZoxNSoWH8AY-/0/1761762160382?e=1763596800&v=beta&t=j2KFOGDNDiKqUqUbBlnsmmJzRxCa1y6m2nOEuCDVpWU" alt="Abu Tahir Sk Banner" width="100%" />
   
 </p>
 
