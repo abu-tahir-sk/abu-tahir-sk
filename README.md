@@ -10,7 +10,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbuTahirSk/AbuTahirSk/main/logo.png" alt="Logo" width="120" />
+  <img src="https://pbs.twimg.com/profile_images/1983572780491657216/xP_UFLpo_400x400.jpg" alt="Logo" width="120" />
 </p>
 
 ---
