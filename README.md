@@ -1,6 +1,6 @@
 <!-- Animated Typing Intro -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abu+Tahir+Sk" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abu+Tahir+Sk....." alt="Typing Animation" />
 </h1>
 
 <!-- Banner -->
