@@ -8,10 +8,7 @@
   <img src="https://pbs.twimg.com/profile_banners/1947730514363781121/1753210399/1080x360" alt="Abu Tahir Sk Banner" width="100%" />
 </p>
 
-<!-- Logo -->
-<p align="center rounded-full">
-  <img src="https://pbs.twimg.com/profile_images/1983572780491657216/xP_UFLpo_400x400.jpg" alt="Logo" width="120" />
-</p>
+
 
 ---
 
