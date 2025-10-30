@@ -15,11 +15,21 @@
 
 ### 🧠 About Me
 
-- 🔭 Working on **Frontend Projects**
+- 🔭 Working on **Frontend Projects
 - 🌱 Currently learning **Node.js, Express.js, MongoDB**
 - 💬 Ask me about **HTML, CSS, JS, React, Tailwind**
 - ⚡ Passion: I enjoy creating clean, modern, and responsive UIs ✨
 
+---
+### 📌 Featured Projects
+
+| Project | Description | Demo |
+|--------|-------------|------|
+| 🎓 Portfolio Website | My personal portfolio | Live Soon |
+| 🛒 E-commerce App | MERN based e-commerce application | Live Soon |
+| 💬 Chat Application | Real-time chat using Socket.io | Live Soon |
+
+> Want to see more? Visit → **https://github.com/abu-tahir-sk?tab=repositories**
 ---
 
 ### 🛠️ Skills
