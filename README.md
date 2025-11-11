@@ -24,10 +24,6 @@
 ### 📌 Featured Projects
 
 | Project | Description | Demo |
-|--------|-------------|------|
-| 🎓 Portfolio Website | My personal portfolio | Live Soon |
-| 🛒 E-commerce App | MERN based e-commerce application | Live Soon |
-| 💬 Chat Application | Real-time chat using Socket.io | Live Soon |
 
 > Want to see more? Visit → **https://github.com/abu-tahir-sk?tab=repositories**
 ---
