@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profile Image -->
-  <img src="banner-2.png" alt="Abu Tahir Sk" width="180" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 15px #00FFFF;" />
+  <img src="banner-2.png" alt="Abu Tahir Sk" width=100% style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 15px #00FFFF;" />
   
   <br/>
   
