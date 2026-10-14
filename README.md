@@ -1,93 +1,107 @@
 <div align="center">
 
-<!-- Banner -->
-<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t39.30808-6/579227188_122102143203107802_6283223239183330882_n.png?stp=dst-png_s960x960&_nc_cat=104&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=9JAgE7nsk-cQ7kNvwEJznqp&_nc_oc=AdlA12SuvfkQiTSYIDGIHrAE7XG_mhwronju2fhnLrwFGfECyHX5UV4uWd0mk069IEE&_nc_zt=23&_nc_ht=scontent-bom1-1.xx&_nc_gid=lDk45WO8UVV6ZtpLETeFIA&oh=00_Afgo97eX795ZtG0OeEKMByyXw91Nkmz5PlEUynh30O09KQ&oe=691E178F" alt="Abu Tahir Sk Banner" width="100%" />
-
-<!-- Animated Typing Intro -->
-<br/>
-<a href="https://github.com/AbuTahirSk">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I'm+Abu+Tahir+Sk.....;Full+Stack+Developer;Next.js+%26+MERN+Expert;Building+Enterprise+UIs" alt="Typing Animation" />
-</a>
-
-<p align="center">
-  Building modern, scalable web applications with clean, enterprise-grade UI/UX.
-</p>
-
-<!-- Neon Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider" />
-
-</div>
-
-### 🧠 About Me
-
-- 🔭 Working on **Full-Stack Projects & Enterprise SaaS Applications**
-- 🌱 Exploring **Advanced Next.js architectures, Server Actions & Prisma ORM**
-- 💬 Ask me about **React, Next.js, Node.js, Express, Tailwind CSS, MongoDB**
-- ⚡ Passion: Creating clean, modern, and responsive UIs featuring dark mode & glassmorphism ✨
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider" />
-</div>
-
-### 🛠️ Skills
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,nodejs,express,mongodb,prisma,html,css,git,github,vscode" alt="Tech Stack" />
+  <!-- Profile Image -->
+  <img src="./Untitled design.jpg" alt="Abu Tahir Sk" width="180" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 15px #00FFFF;" />
+  
+  <br/>
+  
+  <!-- Typing Intro -->
+  <a href="https://github.com/abu-tahir-sk">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hi+I+am+Abu+Tahir+Sk;Full+Stack+Developer;Next.js+%26+MERN+Expert" alt="Typing Animation" />
   </a>
+
+  <p><b>Transforming innovative ideas into high-performance, user-centric web applications.</b></p>
+
+  <!-- Social Badges -->
+  <p>
+    <a href="YOUR_PORTFOLIO_LINK" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-10B981?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/></a>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://youtube.com/YOUR_YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  </p>
+
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider" />
-</div>
+### 👨‍💻 About Me
 
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **DocuCraft / DocuFlow** | A document management SaaS offering dynamic PDF generation, custom styling options, and automated OTP email workflows. | Next.js, Prisma, Tailwind, Node.js |
-| **Full-Stack News Portal** | A dynamic news publishing platform with a custom backend server, real-time category layouts, and rich text integration. | React, Node.js, Express, MongoDB |
-| **TIME DIGITALS Agency** | A responsive, enterprise-grade website for a digital agency offering web, app, video editing, and marketing services. | Next.js, Tailwind CSS |
-| **Quotation Generator** | A professional internal tool featuring server actions and customized UI for generating and displaying business quotes. | Next.js, Server Actions, React |
-
-> Want to see more? Visit → **[Abu Tahir's Repositories](https://github.com/abu-tahir-sk?tab=repositories)**
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider" />
-</div>
-
-### 📊 GitHub Stats (Animated)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AbuTahirSk&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&title_color=00FFFF&text_color=A3B3BC&icon_color=06B6D4&bg_color=0D1117" alt="GitHub Stats" />
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbuTahirSk&theme=radical&hide_border=true&background=0D1117&ring=00FFFF&fire=06B6D4&sideLabels=A3B3BC" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuTahirSk&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF" alt="GitHub Activity Graph" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon divider" />
-</div>
-
-### 🌐 Connect With Me
-
-<p align="center">
-<a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://wa.me/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
+Hello there! I'm Abu Tahir Sk, a results-driven Full Stack Developer. My expertise lies in the MERN stack and Next.js, where I transform complex problems into elegant, user-centric digital solutions. I'm passionate about writing clean, scalable code, solving real-world problems, and creating seamless digital experiences.
 
 <br/>
 
+### 💡 My Tech Journal
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h4>🎨 Frontend</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,js" alt="Frontend" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h4>⚙️ Backend</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma" alt="Backend" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h4>🗄️ Database & Cloud</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb,firebase,vercel" alt="Database" /></a>
+    </td>
+    <td width="50%" align="center">
+      <h4>🛠️ Tools & Practices</h4>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" /></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🚀 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 DocuFlow / DocuCraft Pro</h4>
+      <p>Developed a robust document management and invoice generation SaaS platform allowing custom PDF formatting, OTP email workflows, and seamless user management.</p>
+      <p><b>Tech Stack:</b> Next.js, Prisma, Tailwind CSS, Node.js</p>
+      <a href="YOUR_LIVE_SITE_LINK">🔗 Live Site</a> | <a href="YOUR_GITHUB_REPO_LINK">💻 Source Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛒 Gadget Heaven</h4>
+      <p>Built a responsive e-commerce platform offering a seamless shopping experience with advanced cart features, product filtering, and user authentication.</p>
+      <p><b>Tech Stack:</b> React, Node.js, Firebase, MongoDB</p>
+      <a href="YOUR_LIVE_SITE_LINK">🔗 Live Site</a> | <a href="YOUR_GITHUB_REPO_LINK">💻 Source Code</a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🎯 Current Focus & Open Source
+
+I am a firm believer in lifelong learning and collaborative development. Currently, I am sharpening my skills in:
+- **Next.js & Server Actions:** Building advanced, scalable, server-rendered applications.
+- **Enterprise UI/UX:** Designing clean interfaces utilizing dark mode and glassmorphism.
+- **Database Optimization:** Leveraging Prisma and MongoDB for efficient data fetching.
+
+<br/>
+
+### 🌌 My GitHub Universe
+
 <div align="center">
-  <i>“Code is like art — your logic is your brush.”</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=abu-tahir-sk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&title_color=00FFFF" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abu-tahir-sk&theme=tokyonight&hide_border=true&ring=00FFFF&fire=00FFFF" alt="GitHub Streak" width="48%" />
+  
   <br/><br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abu-tahir-sk&theme=react-dark&hide_border=true&bg_color=1A1B27&color=00FFFF&line=00FFFF" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🤝 Let's Collaborate & Innovate!</h3>
+  <p>I'm always thrilled to connect with fellow developers, designers, and tech enthusiasts.<br/>Feel free to reach out for a project, collaboration, or just to chat about the latest in tech!</p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=100&section=footer" alt="Animated Footer" />
 </div>
