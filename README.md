@@ -2,7 +2,7 @@
 
   <!-- 🌟 Custom Premium Hero Banner with Full Stack Web Developer Branding -->
   <p align="center">
-    <img src="./banner-2.png" alt="Abu Tahir Sk - Full Stack Web Developer" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 255, 255, 0.15);" />
+    <img src="./banner-2 (1).png" alt="Abu Tahir Sk - Full Stack Web Developer" width="100%" style="border-radius: 14px; box-shadow: 0 10px 30px rgba(0, 255, 255, 0.15);" />
   </p>
 
   <!-- ✍️ Dynamic Glowing Typing Introduction -->
